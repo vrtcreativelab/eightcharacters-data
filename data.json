@@ -1,0 +1,56 @@
+[
+  {
+    "name": "The logical smart one",
+    "characteristics": [
+      "Articulate",
+      "Practical",
+      "Balanced",
+      "Quick-witted",
+      "Brutally honest",
+      "Calm",
+      "Caring",
+      "Compassionate",
+      "Grounded",
+      "Has common sense",
+      "Intelligent",
+      "Knowledgeable",
+      "Logical",
+      "Materal/Paternal",
+      "Patient",
+      "Pillar of reason",
+      "Rational",
+      "Reasonable",
+      "Responsible",
+      "Sarcastic",
+      "Sensible",
+      "Smart",
+      "Stable",
+      "Straightforward",
+      "Tolerant",
+      "Understanding",
+      "Well-educated",
+      "Well-spoken"
+    ],
+    "intentions": [
+      "To reason",
+      "To pacify",
+      "To educate",
+      "To compromise",
+      "To nurture",
+      "To enlighten",
+      "To comfort",
+      "To awaken",
+      "To reassure",
+      "To ease",
+      "To set straight",
+      "To slap back into reality"
+    ],
+    "examples": [
+      {
+        "name": "Pam Beesly",
+        "show": "The Office",
+        "image": "images/pam-office.jpg"
+      }
+    ]
+  }
+]
