@@ -50,6 +50,76 @@
         "name": "Pam Beesly",
         "show": "The Office",
         "image": "images/pam-office.jpg"
+      },
+      {
+        "name": "Jim Halpert",
+        "show": "The Office",
+        "image": "images/jim-office.jpg"
+      },
+      {
+        "name": "Michael Blut",
+        "show": "Arrested Development",
+        "image": "images/michael-arrested.jpg"
+      },
+      {
+        "name": "Manny Delgado",
+        "show": "Modern Family",
+        "image": "images/manny-modernfamily.jpg"
+      },
+      {
+        "name": "Claire Dunphy",
+        "show": "Modern Family",
+        "image": "images/claire-modernfamily.jpg"
+      },
+      {
+        "name": "Brian Griffin",
+        "show": "Family Guy",
+        "image": "images/brian-familyguy.jpg"
+      },
+      {
+        "name": "Lois Griffin",
+        "show": "Family Guy",
+        "image": "images/lois-familyguy.jpg"
+      },
+      {
+        "name": "Pete Hornberger",
+        "show": "30 Rock",
+        "image": "images/pete-30rock.jpg"
+      },
+      {
+        "name": "Eric Murphy",
+        "show": "30 Rock",
+        "image": "images/eric-entourage.jpg"
+      },
+      {
+        "name": "Donna Pinciotti",
+        "show": "That 70’s show",
+        "image": "images/donna-70s.jpg"
+      },
+      {
+        "name": "Malcolm",
+        "show": "Malcolm in the Middle",
+        "image": "images/malcolm.jpg"
+      },
+      {
+        "name": "Penny",
+        "show": "The Big Bang Theory",
+        "image": "images/penny-bigbang.jpg"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "show": "Seinfeld",
+        "image": "images/seinfeld.jpg"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "show": "Seinfeld",
+        "image": "images/seinfeld.jpg"
+      },
+      {
+        "name": "Marge Simpson",
+        "show": "The Simpsons",
+        "image": "images/marge-simpsons.jpg"
       }
     ]
   }
